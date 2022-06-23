@@ -53,3 +53,12 @@ or 6 patients received a placebo vaccine. Nineteen weeks later, all 20 patients 
 drug-sensitive malaria virus strain; the motivation of using a drug-sensitive strain of virus here is for
 ethical considerations, allowing any infections to be treated effectively. According to the results, 9 of the 14 treatment patients remained free of signs of infection while all of
 the 6 patients in the control group patients showed some baseline signs of infection.                   
+
+
+Simulating the study
+
+We’re going to implement simulations, where we will pretend we know that the malaria vaccine
+being tested does not work. Ultimately, we want to understand if the large difference we observed
+is common in these simulations. If it is common, then maybe the difference we observed was purely
+due to chance. If it is very uncommon, then the possibility that the vaccine was helpful seems more
+plausible. 
