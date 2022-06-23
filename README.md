@@ -14,4 +14,6 @@ difference of the size of two loans. On the other hand, area codes and zip codes
 but rather they are categorical variables.
  Numerical data can be examined by; scattered plots for paired data, dot plots and the mean, histograms and the shape, variance and standard deviation, box plots, quartiles and the median, robust statistics, transforming data (special topic), mapping data (special topic).
 
-         
+       A scatterplot provides a case-by-case view of data for two numerical variables, Sometimes two variables are one too many: only one variable may be of interest. In these cases,
+
+a dot plot provides the most basic of displays. A dot plot is a one-variable scatterplot.         
