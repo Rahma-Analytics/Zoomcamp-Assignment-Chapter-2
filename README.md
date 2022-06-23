@@ -23,3 +23,9 @@ relatively more common, they are especially convenient for understanding the sha
 
 skewed. We also say that such a distribution has a long left tail. Data sets that show roughly equal
 trailing off in both directions are called symmetric.
+   
+     Variance and standard deviation:The mean was introduced as a method to describe the center of a data set, and variability in
+the data is also important. Here, we introduce two measures of variability: the variance and the
+standard deviation. Both of these are very useful in data analysis, even though their formulas are
+a bit tedious to calculate by hand. The standard deviation is the easier of the two to comprehend,
+and it roughly describes how far away the typical observation is from the mean, We call the distance of an observation from its mean its deviation. 
