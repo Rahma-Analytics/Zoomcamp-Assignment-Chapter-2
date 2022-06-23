@@ -29,3 +29,10 @@ the data is also important. Here, we introduce two measures of variability: the 
 standard deviation. Both of these are very useful in data analysis, even though their formulas are
 a bit tedious to calculate by hand. The standard deviation is the easier of the two to comprehend,
 and it roughly describes how far away the typical observation is from the mean, We call the distance of an observation from its mean its deviation. 
+The variance is the average squared distance from the mean. The standard deviation is the
+square root of the variance. The standard deviation is useful when considering how far the data
+are distributed from the mean.
+The standard deviation represents the typical deviation of observations from the mean. Usually
+about 70% of the data will be within one standard deviation of the mean and about 95% will
+be within two standard deviations. However, these percentages
+ are not strict rules.
