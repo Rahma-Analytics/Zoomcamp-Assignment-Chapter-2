@@ -36,7 +36,20 @@ The standard deviation represents the typical deviation of observations from the
 about 70% of the data will be within one standard deviation of the mean and about 95% will
 be within two standard deviations. However, these percentages
  are not strict rules.    
-                CONSIDERING CATEGORICAL DATA
-                  Tables and other basic tools for categorical datas are ; constingency tables and bar plots, raw and column proportions, bar plot with two variables, mosiac plots, pie charts etc.
-                  CASE STUDY: MALARIA VACCINE
-                    
+               
+
+ CONSIDERING CATEGORICAL DATA
+               
+   Tables and other basic tools for categorical datas are ; constingency tables and bar plots, raw and column proportions, bar plot with two variables, mosiac plots, pie charts etc.
+                
+
+  CASE STUDY: MALARIA VACCINE
+
+Variability within data
+
+We consider a study on a new malaria vaccine called PfSPZ. In this study, volunteer patients
+were randomized into one of two experiment groups: 14 patients received an experimental vaccine
+or 6 patients received a placebo vaccine. Nineteen weeks later, all 20 patients were exposed to a
+drug-sensitive malaria virus strain; the motivation of using a drug-sensitive strain of virus here is for
+ethical considerations, allowing any infections to be treated effectively. According to the results, 9 of the 14 treatment patients remained free of signs of infection while all of
+the 6 patients in the control group patients showed some baseline signs of infection.                   
