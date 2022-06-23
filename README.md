@@ -35,4 +35,8 @@ are distributed from the mean.
 The standard deviation represents the typical deviation of observations from the mean. Usually
 about 70% of the data will be within one standard deviation of the mean and about 95% will
 be within two standard deviations. However, these percentages
- are not strict rules.
+ are not strict rules.    
+                CONSIDERING CATEGORICAL DATA
+                  Tables and other basic tools for categorical datas are ; constingency tables and bar plots, raw and column proportions, bar plot with two variables, mosiac plots, pie charts etc.
+                  CASE STUDY: MALARIA VACCINE
+                    
