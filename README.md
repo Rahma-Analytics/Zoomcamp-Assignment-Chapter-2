@@ -62,3 +62,25 @@ being tested does not work. Ultimately, we want to understand if the large diffe
 is common in these simulations. If it is common, then maybe the difference we observed was purely
 due to chance. If it is very uncommon, then the possibility that the vaccine was helpful seems more
 plausible. 
+
+
+Checking for independence
+
+
+We computed one possible difference under the independence model in Guided Practice,
+ which represents one difference due to chance. While in this first simulation, we physically dealt out
+notecards to represent the patients, it is more efficient to perform this simulation using a computer.
+Repeating the simulation on a computer, we get another difference due to chance:
+2
+6
+−
+9
+14
+= −0.310
+And another:
+3
+6
+−
+8
+14
+= −0.071
